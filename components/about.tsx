@@ -51,7 +51,7 @@ export default function About() {
                   SA
                 </div>
                 <div className="ml-4">
-                  <h4 className="font-semibold text-maroon-800">Sita Adhikari</h4>
+                  <h4 className="font-semibold text-maroon-800">Nisha Gupta</h4>
                   <p className="text-sm text-maroon-600">Bridal Client</p>
                 </div>
               </div>
@@ -67,7 +67,7 @@ export default function About() {
                   RK
                 </div>
                 <div className="ml-4">
-                  <h4 className="font-semibold text-maroon-800">Raj Kumar</h4>
+                  <h4 className="font-semibold text-maroon-800">Prity Gupta</h4>
                   <p className="text-sm text-maroon-600">Event Organizer</p>
                 </div>
               </div>
@@ -83,7 +83,7 @@ export default function About() {
                   MS
                 </div>
                 <div className="ml-4">
-                  <h4 className="font-semibold text-maroon-800">Maya Shrestha</h4>
+                  <h4 className="font-semibold text-maroon-800">Barsha Gupta</h4>
                   <p className="text-sm text-maroon-600">Regular Client</p>
                 </div>
               </div>
