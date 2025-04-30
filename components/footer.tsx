@@ -114,7 +114,7 @@ export default function Footer({ onHomeClick, onServicesClick, onAboutClick, onC
             <h3 className="text-xl font-bold text-gold-500 mb-4">Contact</h3>
             <ul className="space-y-2">
               <li>Jarankhu, Kathmandu, Nepal</li>
-              <li>+977 9843645698</li>
+              <li>+977 9************</li>
               <li>raazgupta958@gmail.com</li>
             </ul>
           </div>
